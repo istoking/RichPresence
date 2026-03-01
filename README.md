@@ -1,4 +1,4 @@
-# IllicitRP Discord Rich Presence (QBCore)
+# Discord Rich Presence
 
 A lightweight Discord Rich Presence resource for FiveM/QBCore that shows players what they’re doing in-city (location, vehicle, etc.), with rotating taglines, rare “flavour” lines, and live server player count.
 
@@ -9,7 +9,8 @@ A lightweight Discord Rich Presence resource for FiveM/QBCore that shows players
 - **Discord Rich Presence** with:
   - Large + small image assets (configurable)
   - Custom hover text for assets
-  - Two configurable buttons (Discord, direct connect, website, etc). **This setting is currently depreciated**
+  - Two configurable buttons (Discord, direct connect, website, etc). 
+  (**This setting is currently depreciated**)
 - **Dynamic status text**
   - Uses GTA zone names with a “pretty name” map (e.g. `ROCKF` → Rockford Hills)
   - Can display player name (toggle)
