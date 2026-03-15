@@ -22,7 +22,7 @@ A lightweight Discord Rich Presence resource for FiveM/QBCore that shows players
 
 ---
 
-### Main Inventory
+### Screenshot
 ![Profile Image](screenshot/richpresence.jpg)
 
 ---
